@@ -1,9 +1,9 @@
 ### Hi, I'm Chiachii. 👋
-- 🌱 I’m currently studying Data Science at IDS in NYCU.
+- 🌱 I’m currently studying Data Science at NYCU.
 - 🔭 I am currently working on the problem of Model Improvement in machine learning & deep learning.
 - 🎯 I’m seeking for an internship as a Data Engineer or Analyst.
 
-### Research Interests:
+### Research Interests
 - Mathematics & Statistics Analysis
 - Data Science, Visualization, Engineering, etc.
 
