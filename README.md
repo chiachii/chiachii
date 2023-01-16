@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Chiachii. 👋
+- 🌱 I’m currently studying Data Science at IDS in NYCU.
+- 🔭 I am currently working on the problem of Model Improvement in machine learning & deep learning.
+- 🎯 I’m seeking for an internship as a Data Engineer or Analyst.
+
+### Research Interests:
+- Mathematics & Statistics Analysis
+- Data Science, Visualization, Engineering, etc.
 
 <!--
 **chiachii/chiachii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### My Skills:
+- **AI & Data**: PyTorch, TensorFlow, Scikit-Learn, Pandas, Matplotlib, Snorkel, SHAP, GPT-3, SPSS, SmartPLS
+- **Blockchain**: Solidity, Vyper, Move, Hardhat, Brownie, Foundry, Slither, IOTA, Bitcoin, IPFS, DIDs, NFT
+- **Frontend**: Vue, React, Angular, TypeScript, Tensorflow.js, IndexedDB, Bootstrap, Tailwind, Selenium
+- **Backend**: FastAPI, Flask, Django, Expresss.js, Next.js, GraphQL, Java, Scala
+- **Database**: MongoDB, PostgreSQL, Redis, LevelDB, Elasticsearch, Weaviate
+- **Cloud & Server**: GCP, AWS, Azure, Docker, CI/CD, Google APIs, Firebase, Ubuntu, Nginx
 -->
