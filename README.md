@@ -1,4 +1,5 @@
 ### Hi, I'm Chiachii. 👋
+### About me
 - 🌱 I’m currently studying Data Science at NYCU.
 - 🔭 I'm currently working on both Medical Data Analysis and Model Drift.
 - 🎯 I’m seeking for an internship as a Data Engineer or Analyst.
