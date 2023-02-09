@@ -1,6 +1,6 @@
 ### Hi, I'm Chiachii. 👋
 - 🌱 I’m currently studying Data Science at NYCU.
-- 🔭 I'm currently working on the problem of Model Improvement in machine learning & deep learning.
+- 🔭 I'm currently working on both Medical Data Analysis and Model Drift.
 - 🎯 I’m seeking for an internship as a Data Engineer or Analyst.
 
 ### Research Interests
