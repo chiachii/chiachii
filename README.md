@@ -9,8 +9,9 @@
 ---
 <!--
 ### My Github Stats
--->
+
 [![Chiachii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiachii&count_private=true&show_icons=true&rank_icon=github&theme=github)](https://github.com/chiachii/github-readme-stats)
+-->
 
 <!--
 **chiachii/chiachii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
