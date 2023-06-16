@@ -10,7 +10,9 @@
 <!--
 ### My Github Stats
 
+[![Chiachii's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=chiachii&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/chiachii/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![Chiachii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiachii&count_private=true&show_icons=true&rank_icon=github&theme=github)](https://github.com/chiachii/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiachii&layout=compact)
 -->
 
 <!--
