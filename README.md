@@ -6,12 +6,12 @@ Enjoy learning data science and implementing some interesting methods in Kaggle 
 
 - 🌱 I’m currently studying Data Science at NYCU.
 - 🔭 I'm currently working on both Medical Data Analysis and Concept Drift.
-- 🎯 I'm seeking for an internship in MLE or AI development.
+- 🎯 I'm seeking for an internship in ML Engineer or Data Scientist.
 - 📫 Get in touch with me via my [email](chiachii.liang@gmail.com).
 
 ### Research Interests
-- Mathematics & Statistics Analysis
-- Data Science, Visualization, Engineering, etc.
+- Statistics, Time-series Analysis, Data Visualization
+- Computer Vision, Deep Learning
 
 ![](https://komarev.com/ghpvc/?username=chiachii) ![](https://img.shields.io/github/followers/chiachii?style=social)
 <!--
