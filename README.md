@@ -1,18 +1,21 @@
 ### Hi, I'm Chiachii Liang. 👋
 <!--
-My name is Chia-Yu, Liang(梁家瑀). Chiachii is my pseudonym, I majored in Mathematics and currently studying for a master's degree in Data Science.<br>
+My name is Chia-Yu (Chiachii), Liang, and Chiachii is my nickname on the internet. I majored in Mathematics and Data Science and also earned the B.S. and M.S. degrees from NCUE and NYCU, respectively.<br>
 Enjoy learning data science and implementing some interesting methods in Kaggle competitions. Welcome to contact me for more communication.
--->
 
 - 🌱 I’m currently studying Data Science at NYCU.
 - 🔭 I'm currently working on both Medical Data Analysis and Concept Drift.
-- 🎯 I'm seeking for an internship in ML Engineer or Data Scientist.
+-->
+
+My name is Chia-Yu (Chiachii), Liang, and Chiachii is my nickname on the internet. I completed a B.S. in Mathematics at NCUE and a M.S. in Data Science at NYCU.
+I enjoy learning data science and implementing some interesting methods in Kaggle competitions.<br>Welcome to contact me for more communication.
+
+- 🎯 I'm looking for a job as a Machine Learning Engineer or Data Scientist.
 - 📫 Get in touch with me via my [email](chiachii.liang@gmail.com).
 
 ### Research Interests
-- Statistics, Time-series Analysis, Data Visualization
-- Computer Vision, Deep Learning
-
+- Time-series Analysis, Deep Learning, Generative AI, Data-centric AI
+  
 ![](https://komarev.com/ghpvc/?username=chiachii) ![](https://img.shields.io/github/followers/chiachii?style=social)
 <!--
 ### My Github Stats
